@@ -1,2 +1,2 @@
-# Getting To Know Hooks
-A simple app to play with the new hooks in React
+# Train Timetable
+An app for myself to make looking up country trains a little easier. 
